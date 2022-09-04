@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atmos Program",
-    "currentPage": "index.html",
+    "currentPage": "galactic-union.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -8830,7 +8830,7 @@
             "modalSize": "medium",
             "modalHeader": true,
             "modalTitle": "The Future of our Planets",
-            "modalBody": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nJ38P5elTkg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+            "modalBody": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/W5KJsQMKbwM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
             "modalBodyHTML": true,
             "modalFooter": true,
             "modalCloseBtn": true,
@@ -8847,7 +8847,7 @@
             "modalAutoOpenDelay": 0
           },
           "modalTest": "<div class=\"mbr-section-btn\">\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#futureearth\" data-bs-toggle=\"modal\" data-bs-target=\"#futureearth\">Preview futureearth</a>\n  <a href=\"#\" class=\"btn btn-primary display-4\" data-toggle=\"modal\" data-target=\"#futureearth-howtouse\" data-bs-toggle=\"modal\" data-bs-target=\"#futureearth-howtouse\">How to use futureearth</a>\n</div>\n<div class=\"modal fade\" id=\"futureearth-howtouse\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"futureearth-howtouseLabel\" aria-hidden=\"true\">\n  <div class=\"modal-dialog\" role=\"document\" style=\"height:auto\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <h5 class=\"modal-title display-7\" id=\"futureearth-howtouseLabel\">How to use?</h5>\n        <a href=\"\" class=\"close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a>\n      </div>\n      <div class=\"modal-body display-7\">\n        Using your new modal is very easy. Simply create a new link, then click the \"...\" tab and enter the following as custom URL:<br /><br />\n        <code>javascript:OpenModal('futureearth')</code>\n      </div>\n      <div class=\"modal-footer\">\n        <div class=\"mbr-section-btn\"><a href=\"#\" class=\"btn btn-secondary display-4\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\">Close</a></div>\n      </div>\n    </div>\n  </div>\n</div>",
-          "modalBody": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nJ38P5elTkg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "modalBody": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/W5KJsQMKbwM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
           "alias": "witsec-modal-window",
           "_tags": [
             "Extension"
@@ -8855,7 +8855,7 @@
           "_name": "witsec-modal-window-block",
           "_sourceTheme": "mobirise5",
           "_anchor": "witsec-modal-window-block-5w",
-          "modalWindow": "<div class=\"modal fade\" id=\"futureearth\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"futureearthLabel\" aria-hidden=\"true\">  <div class=\"modal-dialog  \" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title display-7\" id=\"futureearthLabel\">The Future of our Planets</h5>  <a href=\"#\" class=\"no-anim close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body display-7\" id=\"futureearth_body\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nJ38P5elTkg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div><div class=\"modal-footer\"><div class=\"mbr-section-btn\"><a href=\"#\" class=\"no-anim btn btn-secondary display-4\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\">Close</a></div></div>    </div>  </div></div><script> \ndocument.addEventListener(\"DOMContentLoaded\", function() { \n  if(typeof jQuery === \"function\") {\n    $(\"#futureearth\").on(\"hidden.bs.modal\", function () { \n      var html = $( \"#futureearth_body\" ).html(); \n      $( \"#futureearth_body\" ).empty(); \n      $( \"#futureearth_body\" ).append(html); \n    }) \n  } else { \n      var mdw = document.getElementById(\"#futureearth\") \n      mdw.addEventListener(\"hidden.bs.modal\", function(event) { \n        mdw.innerHTML = mdw.innerHTML; \n      }); \n  } \n}); \n</script>"
+          "modalWindow": "<div class=\"modal fade\" id=\"futureearth\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"futureearthLabel\" aria-hidden=\"true\">  <div class=\"modal-dialog  \" style=\"height:auto\" role=\"document\">    <div class=\"modal-content\"><div class=\"modal-header\">  <h5 class=\"no-anim modal-title display-7\" id=\"futureearthLabel\">The Future of our Planets</h5>  <a href=\"#\" class=\"no-anim close\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></a></div><div class=\"modal-body display-7\" id=\"futureearth_body\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/W5KJsQMKbwM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div><div class=\"modal-footer\"><div class=\"mbr-section-btn\"><a href=\"#\" class=\"no-anim btn btn-secondary display-4\" data-bs-dismiss=\"modal\" data-dismiss=\"modal\">Close</a></div></div>    </div>  </div></div><script> \ndocument.addEventListener(\"DOMContentLoaded\", function() { \n  if(typeof jQuery === \"function\") {\n    $(\"#futureearth\").on(\"hidden.bs.modal\", function () { \n      var html = $( \"#futureearth_body\" ).html(); \n      $( \"#futureearth_body\" ).empty(); \n      $( \"#futureearth_body\" ).append(html); \n    }) \n  } else { \n      var mdw = document.getElementById(\"#futureearth\") \n      mdw.addEventListener(\"hidden.bs.modal\", function(event) { \n        mdw.innerHTML = mdw.innerHTML; \n      }); \n  } \n}); \n</script>"
         },
         {
           "alias": false,

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://atmosu.com/</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/technology</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/mars</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/vision</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/warp-drive</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/inhabited-areas</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/improving-life-on-earth</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/gbit</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/galactic-union</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/about</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/misat</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/qbit.html</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/gbit-document</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/misat-doc</loc>
+  <lastmod>2022-09-07T23:05:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

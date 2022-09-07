@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atmos Program",
-    "currentPage": "vision.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -97,12 +97,12 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/social-1_1.png",
-    "mbrsiteDomain": "wdubcyipar",
+    "mbrsiteDomain": "am2ohmvmf0",
     "imageResize": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://atmosu.com/sitemap.xml",
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 249,
@@ -110,7 +110,8 @@
     "screenshot": "screenshot.png",
     "witsec-white-label": true,
     "global_footer_custom": "<script>\nwindow.onload = function() {\n    var buttons = document.getElementsByClassName(\"btn\"),\n        len = buttons !== null ? buttons.length : 0,\n        i = 0;\n    for(i; i < len; i++) {\n        buttons[i].className += \" shadow-none\"; \n    }\n}\n</script>\n\n<script src=\"//instant.page/5.1.1\" type=\"module\" integrity=\"sha384-MWfCL6g1OTGsbSwfuMHc8+8J2u71/LA8dzlIN3ycajckxuZZmF+DNjdm7O6H3PSq\"></script>",
-    "witsec-jquery": false
+    "witsec-jquery": false,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "index.html": {
@@ -120,7 +121,8 @@
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -792,12 +794,13 @@
     },
     "technology.html": {
       "settings": {
-        "title": "Motivation - Atmos",
+        "title": "Atmos - Motivation",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -1490,12 +1493,13 @@
     },
     "vision.html": {
       "settings": {
-        "title": "Vision - Atmos",
+        "title": "Atmos - Vision",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -2162,12 +2166,13 @@
     },
     "about.html": {
       "settings": {
-        "title": "About - Atmos",
+        "title": "Atmos - About",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 5,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -2798,12 +2803,13 @@
     },
     "warp-drive.html": {
       "settings": {
-        "title": "Warp Drive - Atmos",
+        "title": "Atmos - Warp Drive",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 2,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -3503,12 +3509,13 @@
     },
     "inhabited-areas.html": {
       "settings": {
-        "title": "Cosmic Colonies - Atmos",
+        "title": "Atmos - Cosmic Colonies",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -4281,12 +4288,13 @@
     },
     "mars.html": {
       "settings": {
-        "title": "Going to Mars - Atmos",
+        "title": "Atmos - Going to Mars",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -5127,12 +5135,13 @@
     },
     "artemis-1-mission.html": {
       "settings": {
-        "title": "Artemis 1 NASA Mission - Atmos",
+        "title": "Atmos - Artemis 1 NASA Mission",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -5901,12 +5910,13 @@
     },
     "improving-life-on-earth.html": {
       "settings": {
-        "title": "Improving Life on Earth - Atmos",
+        "title": "Atmos - Improving Life on Earth",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -6753,12 +6763,13 @@
     },
     "misat.html": {
       "settings": {
-        "title": "MISAT - Atmos",
+        "title": "Atmos - MISAT",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -7659,12 +7670,13 @@
     },
     "misat-doc.html": {
       "settings": {
-        "title": "MISAT Document - Atmos",
+        "title": "Atmos - MISAT Document",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -8289,12 +8301,14 @@
     },
     "galactic-union.html": {
       "settings": {
-        "title": "Galactic Union - Atmos",
+        "title": "Atmos - Galactic Union",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 2,
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -9060,12 +9074,13 @@
     },
     "gbit.html": {
       "settings": {
-        "title": "Gbit - Atmos",
+        "title": "Atmos - Gbit",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 6,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {
@@ -9786,12 +9801,13 @@
     },
     "gbit-document.html": {
       "settings": {
-        "title": "Gbit Document - Atmos",
+        "title": "Atmos - Gbit Document",
         "meta_descr": "The universe doesn't just look beautiful, it's full of mysteries. We need to explore & colonize the cosmos to ensure the survival of the human race, to discover the origins of the universe, to uncover and analyze other life forms, and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 6,
+        "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
         {

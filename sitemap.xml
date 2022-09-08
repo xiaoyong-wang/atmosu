@@ -3,9 +3,6 @@
 		<loc>https://atmosu.com/sitemap.xml/index.html</loc>
 	</url>
 	<url>
-		<loc>https://atmosu.com/sitemap.xml/technology.html</loc>
-	</url>
-	<url>
 		<loc>https://atmosu.com/sitemap.xml/vision.html</loc>
 	</url>
 	<url>
@@ -40,5 +37,8 @@
 	</url>
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/gbit-document.html</loc>
+	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/motivation.html</loc>
 	</url>
 </urlset>

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atmos Program NEW",
-    "currentPage": "index.html",
+    "currentPage": "vision.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -894,7 +894,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3,
+        "order": "5",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -1018,7 +1018,7 @@
           },
           "_name": "header2",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header2\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"7\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/starship-0-pc-1.jpg\" selected>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\">\n            <input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=VJ3u6zBcVSA&t=824s\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><b>A brief letter from the creator of ATMOS</b></h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Header Subtitle</h2>\n                <p class=\"txtx mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Colonizing the universe and living in space is something humanity needs to do, and we need to do it as soon as possible, because we don't know what will happen if we wait too long. We're seeing the Russia-Ukraine conflict happen right now (as of Feb. 27th, 2022), and many people are thinking this could start World War 3. If that happens, humanity is dead. Everybody will nuke each other like idiots. Just another civilization in the cosmos that had so much potential, but found a way to kill themselves before they became an intergalactic species.<br><br>Imagine a world where the human race is decentralized, where humanity has no single point of failure, where humanity is thriving in space, where we are living among the stars, exploring the deep universe. There's nothing more inspiring than that. Just take a moment to think about it. You, traveling through space in your spacecraft looking out through the massive transparent windows seeing nebulae, galaxies, exoplanets, and other types of astronomical objects, freely making their journey through the ever-growing universe.<br><br>Now, lets imagine a world where we, humanity, are forever confined to our home planet, Earth. Even if climate change, overpopulation, high air pollution, a crazy-powerful meteor impact, a supervolcanic eruption, or a nuclear war, all were to never occur, Earth would still be&nbsp;inevitably consumed by the constantly-expanding Sun (our star) within the next few hundred million years. The Andromeda Galaxy is also expected to collide with the Milky Way in a few billion years time, which could also potentially wipe out most of humanity if we are still living only in the Milky Way. A window of opportunity has only recently opened allowing us to begin colonizing the universe, starting with Mars, and we don't know when that window will close, which is why we need to act as fast as physically and humanly possible. So, do you want humanity to stay on a ticking time bomb (Earth) and eventually die, or do you want humanity to become an intergalactic species where we will live forever?<br><br>Consciousness, based on our current knowledge, is a very rare thing, and we must do everything we possibly can to preserve it. Colonizing Mars is just the first step. Humanity will keep pushing forward and will hopefully be outside of the Milky Way Galaxy in under 3 billion years time.<br><br>Additionally, in order to have any good chance at seriously exploring and occupying the cosmos, humanity needs to stop screwing around and unite as one, and forget about huge distractions such as money and nations. Without a unifying purpose, humanity will battle itself until it's dead. Our unifying purpose should be exploring and occupying the cosmos. Will you help?<br><br>- Founder of Atmos Program.<br></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\">\n                    <a class=\"btn btn-success\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Free Download!</a>\n                    <a class=\"btn btn-success-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Live Demos &gt;</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header2\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"7\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/starship-0-pc-1.jpg\" selected>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\">\n            <input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=VJ3u6zBcVSA&t=824s\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><b>A brief letter from the creator of ATMOS</b></h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Header Subtitle</h2>\n                <p class=\"txtx mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Colonizing the universe and living in space is something humanity needs to do, and we need to do it as soon as possible, because we don't know what will happen if we wait too long. We're seeing the Russia-Ukraine conflict happen right now (as of Feb. 27th, 2022), and many people are thinking this could start World War 3. If that happens, humanity is dead. Everybody will nuke each other like idiots. Just another civilization in the cosmos that had so much potential, but found a way to kill themselves before they became an intergalactic species.<br><br>Imagine a universe where the human race is decentralized, where humanity has no single point of failure, where humanity is thriving in space, where we are living among the stars, exploring the deep universe. There's nothing more inspiring than that. Just take a moment to think about it. You, traveling through space in your spacecraft looking out through the massive transparent windows seeing nebulae, galaxies, exoplanets, and other types of celestial bodies, freely making their journey through the ever-growing universe.<br><br>Now, lets imagine a world where we, humanity, are forever confined to our home planet, Earth. Even if climate change, overpopulation, high air pollution, a crazy-powerful meteor impact, a supervolcanic eruption, or a nuclear war, all were to never occur, Earth would still be&nbsp;inevitably consumed by the constantly-expanding Sun (our star) within the next few hundred million years. The Andromeda Galaxy is also expected to collide with the Milky Way in a few billion years time, which could also potentially wipe out most of humanity if we are still living only in the Milky Way. A window of opportunity has only recently opened allowing us to begin colonizing the universe, starting with Mars, and we don't know when that window will close. We should not assume that this window of opportunity for humanity to expand across the galaxy will be open for long, because if we're wrong, we could end up extinct. So, do you want humanity to stay on a ticking time bomb (Earth) and eventually die out, or do you want humanity to become an intergalactic species where we will live forever?<br><br>Consciousness, based on our current knowledge, is a very rare thing, and we must do everything we possibly can to preserve it. Colonizing Mars is just the first step. Humanity will keep pushing forward and will hopefully be outside of the Milky Way Galaxy in under 3 billion years time. With your help, we can advance even faster as a species and expand further out into the universe.<br><br>Additionally, in order to have any good chance at seriously exploring and occupying the cosmos, humanity needs to stop screwing around and unite as one, and forget about huge distractions such as money and nations. Without a unifying purpose, humanity will battle itself until it's dead. Our unifying purpose should be exploring and occupying the cosmos. Will you help us reach this exciting future where we are a spacefaring civilization?<br><br>- Founder of Atmos Program.<br></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\">\n                    <a class=\"btn btn-success\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Free Download!</a>\n                    <a class=\"btn btn-success-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Live Demos &gt;</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sYCtgOXjob",
           "_anchor": "header2-18",
           "_PHPplaceholders": [],
@@ -1567,7 +1567,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5,
+        "order": "11",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -2204,7 +2204,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2,
+        "order": "3",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -2910,7 +2910,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3,
+        "order": "6",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -3689,7 +3689,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3,
+        "order": "7",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -4536,7 +4536,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1,
+        "order": "1",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -5311,7 +5311,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3,
+        "order": "8",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -6164,7 +6164,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3,
+        "order": "9",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -7071,7 +7071,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3,
+        "order": "10",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -7702,7 +7702,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2,
+        "order": "4",
         "socialSharingUrl": "",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
@@ -8508,7 +8508,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6,
+        "order": "12",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -9235,7 +9235,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6,
+        "order": "13",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -9868,7 +9868,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1,
+        "order": "2",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [

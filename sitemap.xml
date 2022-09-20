@@ -41,4 +41,10 @@
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/motivation.html</loc>
 	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/mport.html</loc>
+	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/mport-doc.html</loc>
+	</url>
 </urlset>

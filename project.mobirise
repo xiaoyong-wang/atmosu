@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atmos Program 2022 Latest",
-    "currentPage": "cosmic-tour.html",
+    "currentPage": "improving-life-on-earth.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -105,7 +105,7 @@
     "siteUrl": "https://atmosu.com/sitemap.xml",
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 289,
+    "uniqCompNum": 299,
     "versionPublish": "5.6.13",
     "screenshot": "screenshot.png",
     "witsec-white-label": true,
@@ -897,7 +897,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "6",
+        "order": "7",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -1573,7 +1573,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "13",
+        "order": "14",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -2922,7 +2922,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "7",
+        "order": "8",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -3704,7 +3704,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "8",
+        "order": "9",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -5332,7 +5332,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "9",
+        "order": "10",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -5359,7 +5359,7 @@
           },
           "_name": "header6",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header6\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"5\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value selected>Left</option>\n            <option value=\"justify-content-center\">Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/pexels-wolfram-k-745243.jpg\" selected parallax>\n            <input type=\"color\" title=\"Color\" value=\"#4479d9\">\n            <input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=-YUYLbjl7Sk\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><b>LIFE ON EARTH COULD BE BETTER</b></h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Header Subtitle</h2>\n                <p class=\"mbr-text mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">In <i>most </i>places on earth, life generally isn't great. OLD TECHNOLOGY, OLD CITIES, ETC.</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-primary\" href=\"#start\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-down mbr-iconfont mbr-iconfont-btn\"></span>Learn More</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header6\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"5\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value selected>Left</option>\n            <option value=\"justify-content-center\">Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/pexels-wolfram-k-745243.jpg\" selected parallax>\n            <input type=\"color\" title=\"Color\" value=\"#4479d9\">\n            <input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=-YUYLbjl7Sk\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><b>LIFE ON EARTH MATTERS TOO</b></h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Header Subtitle</h2>\n                <p class=\"mbr-text mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">ALL 21ST CENTURY CITIES ON EARTH SHOULD LOOK AS BEAUTIFUL AS CHINA'S INCREDIBLE SHANGHAI CITY.</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-primary\" href=\"#start\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-down mbr-iconfont mbr-iconfont-btn\"></span>Learn More</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "te4lg9CMuZ",
           "_anchor": "header6-4y",
           "_protectedParams": [],
@@ -5387,7 +5387,7 @@
           },
           "_name": "content10",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content10\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"checkbox\" name=\"reverseContent\" title=\"Reverse\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"8\" value=\"6\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#000000\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md\">\n                <h5 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h5>\n                <h6 class=\"mbr-section-subtitle mbr-fonts-style mb-4 txtx\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\">Unfortunately, as of 2022, life on Earth is pretty bad, from a technological &amp; political standpoint. Nations are threatening to use nuclear weapons to obliterate each other, more global problems are being added to the pile, most of our technology everywhere is outdated, and most cities don't look particularly modern. Yes, compared to hundreds of years ago, the world is extremely advanced and modern, however, we are capable of so much more. Humanity has so much potential, and we're hardly using any of it. We, humanity, need to learn that, when united, we are truly an amazing species that is capable of so many great things. But right now we're very divided, and aren't working together nearly as much as we should.</h6>\n            </div>\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <p class=\"txtx mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Look at the images below this paragraph section. That's what our beautiful planet, Earth, could look like if we unite and work together to push humanity forward. If we want a future that looks like that, we need to unite, and if you're someone who is helping to further divide humanity, you need to change. We can't fly into the future to see what's happened with humanity, but, hopefully we will learn to work together, and if we do, we will advance much faster, and it would make Earth a much better place to live, for everybody.<br><br>\"Some people don't like change, but you need to embrace change if the alternative is disaster.\" - Elon Musk<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content10\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"checkbox\" name=\"reverseContent\" title=\"Reverse\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"8\" value=\"6\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#000000\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md\">\n                <h5 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h5>\n                <h6 class=\"mbr-section-subtitle mbr-fonts-style mb-4 txtx\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-7\">Unfortunately, as of 2022, life on Earth in most places is pretty bad, from a technological &amp; political standpoint. Nations are threatening to use nuclear weapons to destroy each other, more global problems are being added to the already-large pile, most of our technology everywhere is outdated, and most cities don't look particularly modern. Yes, compared to hundreds of years ago, the world is extremely advanced and high-tech, however, we are capable of so much more. Humanity has so much potential, and we're hardly using any of it. We, humanity, need to learn that, when united, we are truly an amazing species that is capable of so many great things. But right now we're very divided, and aren't working together nearly as much as we should.</h6>\n            </div>\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <p class=\"txtx mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Look at the images below this paragraph section. That's what the average city on our beautiful planet, Earth, could look like if we unite and work together to push humanity forward. If we want a future that looks like that, we need to unite, and if you're someone who is helping to further divide humanity, you need to change. We can't fly into the future to see what's happened with humanity, but, hopefully we will learn to work together, and if we do, we will advance much faster, and it would make Earth a much better place to live, for everybody.<br><br>\"Some people don't like change, but you need to embrace change if the alternative is disaster.\" - Elon Musk<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_JSplaceholders": [],
           "_PHPplaceholders": [],
           "_anchor": "content10-6t",
@@ -6188,7 +6188,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "10",
+        "order": "11",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -7098,7 +7098,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "11",
+        "order": "12",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -8541,7 +8541,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "15",
+        "order": "16",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -9686,7 +9686,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "16",
+        "order": "17",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -11024,7 +11024,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "14",
+        "order": "15",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [
@@ -12166,7 +12166,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "12",
+        "order": "13",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },
       "components": [

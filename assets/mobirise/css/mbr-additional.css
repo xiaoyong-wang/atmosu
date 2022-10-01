@@ -10959,7 +10959,11 @@ a {
 .cid-tiXNIYBifc {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/pexels-tuesday-temptation-3780104.jpg");
+}
+.cid-tiXNIYBifc .mbr-overlay {
+  background: #000000;
+  opacity: 0.7;
 }
 .cid-tiXNIYBifc img,
 .cid-tiXNIYBifc .item-img {

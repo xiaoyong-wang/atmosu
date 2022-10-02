@@ -42,15 +42,15 @@
 		<loc>https://atmosu.com/sitemap.xml/motivation.html</loc>
 	</url>
 	<url>
-		<loc>https://atmosu.com/sitemap.xml/mport.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/mport-doc.html</loc>
-	</url>
-	<url>
 		<loc>https://atmosu.com/sitemap.xml/cosmic-tour.html</loc>
 	</url>
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/coty.html</loc>
+	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/peregrine.html</loc>
+	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/peregrine-doc.html</loc>
 	</url>
 </urlset>

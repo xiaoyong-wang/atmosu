@@ -1,56 +1,97 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/index.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/vision.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/about.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/warp-drive.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/inhabited-areas.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/mars.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/artemis-1-mission.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/improving-life-on-earth.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/misat.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/misat-doc.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/galactic-union.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/gbit.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/gbit-document.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/motivation.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/cosmic-tour.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/coty.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/peregrine.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/peregrine-doc.html</loc>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://atmosu.com/</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/motivation</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/mars</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/vision</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/about</loc>
+  <lastmod>2022-10-15T17:30:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/cosmic-tour</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/warp-drive</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/inhabited-areas</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/improving-life-on-earth</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/galactic-union</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/misat</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/peregrine</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/coty</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/gbit</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/misat-doc</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/peregrine-doc</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://atmosu.com/gbit-document</loc>
+  <lastmod>2022-10-15T17:30:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>

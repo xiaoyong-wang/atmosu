@@ -203,7 +203,7 @@ margin-top: -14% !important;
     </div>
 </section>
 
-<section data-bs-version="5.1" class="footer3 cid-tjK4j0A3Ri" once="footers" id="footer3-97">
+<section data-bs-version="5.1" class="footer3 cid-tlUgkAnbTQ" once="footers" id="footer3-97">
 
     
 
@@ -225,18 +225,15 @@ margin-top: -14% !important;
                 <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-4">
                     © Copyright 2022 ATMOS. All Rights Reserved.<br>SECURELY HOSTED BY <a href="https://webdock.io" class="text-primary">WEBDOCK.IO</a></p>
             </div>
-            <a href="https://wangcollective.org" target="_blank"><img src="https://cdn.atmosu.com/wang.png" class="wangimg"></a>
+            <!-- <a href="https://wangcollective.org" target="_blank"><img src="https://cdn.atmosu.com/wang.png" class="wangimg"></a> -->
         </div>
     </div>
 </section><section><a href="https://mobiri.se"></a><a href="https://mobiri.se"></a></section><script src="assets/witsec-jquery-3.6.0/jquery-3.6.0.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/parallax/jarallax.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/theme/js/script.js"></script>  
   <script>
-window.onload = function() {
-    var buttons = document.getElementsByClassName("btn"),
-        len = buttons !== null ? buttons.length : 0,
-        i = 0;
-    for(i; i < len; i++) {
-        buttons[i].className += " shadow-none"; 
-    }
+const boxes = document.querySelectorAll('.btn');
+
+for (const box of boxes) {
+  box.classList.add('shadow-none');
 }
 </script>
 

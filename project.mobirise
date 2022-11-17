@@ -30,13 +30,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#0d0d0d",
         "#1e0000",
         "#4c9eea",
         "#d9d9d9",
         "#052254",
         "#2c77c4",
-        "#202020",
-        "#cb2c33"
+        "#202020"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -122,7 +122,7 @@
     "siteUrl": "https://atmosu.com/sitemap.xml",
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 488,
+    "uniqCompNum": 496,
     "versionPublish": "5.6.13",
     "screenshot": "screenshot.png",
     "witsec-white-label": true,

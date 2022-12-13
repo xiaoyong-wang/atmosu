@@ -11782,9 +11782,6 @@ a {
   max-width: 70px;
   margin-top: 11.5px;
 }
-.cid-tlUlz5KvQR {
-  background-image: url("../../../assets/images/pia04227-orig.jpg");
-}
 .cid-tlUlz5KvQR .mbr-fallback-image.disabled {
   display: none;
 }
@@ -11796,6 +11793,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/pia04227-orig.jpg");
 }
 .cid-tlUlz5KvQR .image-wrap img {
   width: 100%;

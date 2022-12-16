@@ -39,8 +39,55 @@ section {
   
 </head>
 <body>
-  
-  <div class="banner cid-tpWhb7IFv2" style="background:black !important; padding-top:8px !important;" id="menu3-kjNpBO2hKj-MhtSmCcyGF-1hQspWuK2c-zl2boMccJm-brydemR7ro-wik6pghvGy-1MTGfV7kNh-6KldV3AcDH-qCXUDTWmEV-78HWWD8x42-BEYaqmxXvw-JIrtIOvJyM-SRY2MtOhYV-g1ahRatJoJ-c1PFMs4sLu-JEvWpconJz-VuKMMv2Yic-ezu4x1iNpC-USgU1iGtZt-KSALL8mQB8-IgmfAaN9KN-Nh07jEYgdH-Qv2KRdiKRh-BaQZ4gtdRi-CekOiy7Wpm-rxiXShriTa-sllijVCVAR-5USpjBhQkP-3CTi8fEriZ-ijCtrY1YvV-dmLZoNhiLH-u7VPledenw-U7tkEJLBA0-UAZT3m8O7O-MlntCwYXdu-O3mzpoigCE-lHFMGHQT4c-2ViGQryU3e-9D4CMEIxmb-3eezqFQM5w-xO1npAegba-e9URPN8vde-odwAxlFQ7G-q8Z2Dzz7mF-yxr86VYKTZ-15xyqlsAhL-2CveeVGZdy-gs" data-rv-view="1521">
+  <style>
+    #preloader {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background-color: #000;
+      z-index: 99999;
+      transition: opacity 1s ease-in-out;
+      opacity: 1;
+      pointer-events: none;
+    }
+
+    #loader {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 50px;
+      height: 50px;
+      border: 6px solid #fff;
+      border-radius: 50%;
+      border-top-color: transparent;
+      animation: spin 1s linear infinite;
+      transform: translate(-50%, -50%);
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+  </style>
+
+  <div id="preloader">
+    <div id="loader"></div>
+  </div>
+  <script>
+    window.addEventListener("load", function(){
+      setTimeout(function(){
+        document.getElementById("preloader").style.opacity = "0";
+        document.getElementById("preloader").style.pointerEvents = "none";
+      }, 2200);
+    });
+  </script>
+  <div class="banner cid-tpWhb7IFv2" style="background:black !important; padding-top:8px !important;" id="menu3-kjNpBO2hKj-MhtSmCcyGF-1hQspWuK2c-zl2boMccJm-brydemR7ro-wik6pghvGy-1MTGfV7kNh-6KldV3AcDH-qCXUDTWmEV-78HWWD8x42-BEYaqmxXvw-JIrtIOvJyM-SRY2MtOhYV-g1ahRatJoJ-c1PFMs4sLu-JEvWpconJz-VuKMMv2Yic-ezu4x1iNpC-USgU1iGtZt-KSALL8mQB8-IgmfAaN9KN-Nh07jEYgdH-Qv2KRdiKRh-BaQZ4gtdRi-CekOiy7Wpm-rxiXShriTa-sllijVCVAR-5USpjBhQkP-3CTi8fEriZ-ijCtrY1YvV-dmLZoNhiLH-u7VPledenw-U7tkEJLBA0-UAZT3m8O7O-MlntCwYXdu-O3mzpoigCE-lHFMGHQT4c-2ViGQryU3e-9D4CMEIxmb-3eezqFQM5w-xO1npAegba-e9URPN8vde-odwAxlFQ7G-q8Z2Dzz7mF-yxr86VYKTZ-15xyqlsAhL-2CveeVGZdy-gs" data-rv-view="6504">
 <!-- Codes by HTML.am -->
 
 <!-- CSS Code -->
@@ -226,9 +273,9 @@ margin-top: -14% !important;
 
 <section data-bs-version="5.1" class="slider1 cid-tgHQKLr2tC" id="slider1-6w">
     
-    <div class="carousel slide carousel-fade" id="tq2jCP4B59" data-ride="carousel" data-bs-ride="carousel" data-interval="4000" data-bs-interval="4000">
+    <div class="carousel slide carousel-fade" id="tq8iRpSRHE" data-ride="carousel" data-bs-ride="carousel" data-interval="4000" data-bs-interval="4000">
         <ol class="carousel-indicators">
-            <li data-slide-to="0" data-bs-slide-to="0" class="active" data-target="#tq2jCP4B59" data-bs-target="#tq2jCP4B59"></li><li data-slide-to="1" data-bs-slide-to="1" class="" data-target="#tq2jCP4B59" data-bs-target="#tq2jCP4B59"></li><li data-slide-to="2" data-bs-slide-to="2" class="" data-target="#tq2jCP4B59" data-bs-target="#tq2jCP4B59"></li><li data-slide-to="3" data-bs-slide-to="3" class="" data-target="#tq2jCP4B59" data-bs-target="#tq2jCP4B59"></li><li data-slide-to="4" data-bs-slide-to="4" class="" data-target="#tq2jCP4B59" data-bs-target="#tq2jCP4B59"></li>
+            <li data-slide-to="0" data-bs-slide-to="0" class="active" data-target="#tq8iRpSRHE" data-bs-target="#tq8iRpSRHE"></li><li data-slide-to="1" data-bs-slide-to="1" class="" data-target="#tq8iRpSRHE" data-bs-target="#tq8iRpSRHE"></li><li data-slide-to="2" data-bs-slide-to="2" class="" data-target="#tq8iRpSRHE" data-bs-target="#tq8iRpSRHE"></li><li data-slide-to="3" data-bs-slide-to="3" class="" data-target="#tq8iRpSRHE" data-bs-target="#tq8iRpSRHE"></li><li data-slide-to="4" data-bs-slide-to="4" class="" data-target="#tq8iRpSRHE" data-bs-target="#tq8iRpSRHE"></li>
             
             
         </ol>
@@ -282,11 +329,11 @@ margin-top: -14% !important;
                 </div>
             </div>
         </div>
-        <a class="carousel-control carousel-control-prev" role="button" data-slide="prev" data-bs-slide="prev" href="#tq2jCP4B59">
+        <a class="carousel-control carousel-control-prev" role="button" data-slide="prev" data-bs-slide="prev" href="#tq8iRpSRHE">
             <span class="mobi-mbri mobi-mbri-arrow-prev" aria-hidden="true"></span>
             <span class="sr-only visually-hidden">Previous</span>
         </a>
-        <a class="carousel-control carousel-control-next" role="button" data-slide="next" data-bs-slide="next" href="#tq2jCP4B59">
+        <a class="carousel-control carousel-control-next" role="button" data-slide="next" data-bs-slide="next" href="#tq8iRpSRHE">
             <span class="mobi-mbri mobi-mbri-arrow-next" aria-hidden="true"></span>
             <span class="sr-only visually-hidden">Next</span>
         </a>

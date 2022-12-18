@@ -38,54 +38,60 @@ section {
 </head>
 <body>
   <style>
-    #preloader {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100vh;
-      background-color: #000;
-      z-index: 99999;
-      transition: opacity 1s ease-in-out;
-      opacity: 1;
-      pointer-events: none;
-    }
+  /* Preloader styles */
+  #preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.7s ease-out;
+    opacity: 1;
+    pointer-events: none;
+  }
 
-    #loader {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      width: 50px;
-      height: 50px;
-      border: 6px solid #fff;
-      border-radius: 50%;
-      border-top-color: transparent;
-      animation: spin 1s linear infinite;
-      transform: translate(-50%, -50%);
-    }
+  #preloader.fade-out {
+    opacity: 0;
+    pointer-events: none;
+  }
 
-    @keyframes spin {
-      0% {
-        transform: rotate(0deg);
-      }
-      100% {
-        transform: rotate(360deg);
-      }
-    }
-  </style>
+  /* Loading animation styles */
+  .loading {
+    width: 40px;
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 50%;
+    border-top-color: transparent;
+    animation: spin 1s linear infinite;
+  }
 
-  <div id="preloader">
-    <div id="loader"></div>
-  </div>
-  <script>
-    window.addEventListener("load", function(){
-      setTimeout(function(){
-        document.getElementById("preloader").style.opacity = "0";
-        document.getElementById("preloader").style.pointerEvents = "none";
-      }, 2200);
-    });
-  </script>
-  <div class="banner cid-tpWhb7IFv2" style="background:black !important; padding-top:8px !important;" id="menu3-kjNpBO2hKj-MhtSmCcyGF-1hQspWuK2c-zl2boMccJm-brydemR7ro-wik6pghvGy-1MTGfV7kNh-6KldV3AcDH-qCXUDTWmEV-78HWWD8x42-BEYaqmxXvw-JIrtIOvJyM-SRY2MtOhYV-g1ahRatJoJ-c1PFMs4sLu-JEvWpconJz-VuKMMv2Yic-ezu4x1iNpC-USgU1iGtZt-KSALL8mQB8-IgmfAaN9KN-Nh07jEYgdH-Qv2KRdiKRh-BaQZ4gtdRi-CekOiy7Wpm-rxiXShriTa-sllijVCVAR-5USpjBhQkP-3CTi8fEriZ-ijCtrY1YvV-dmLZoNhiLH-u7VPledenw-U7tkEJLBA0-UAZT3m8O7O-MlntCwYXdu-O3mzpoigCE-lHFMGHQT4c-2ViGQryU3e-9D4CMEIxmb-3eezqFQM5w-xO1npAegba-e9URPN8vde-odwAxlFQ7G-q8Z2Dzz7mF-yxr86VYKTZ-15xyqlsAhL-2CveeVGZdy-gs" data-rv-view="6810">
+  @keyframes spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+</style>
+
+<!-- Preloader HTML -->
+<div id="preloader">
+  <div class="loading"></div>
+</div>
+
+<!-- Preloader JS -->
+<script>
+  window.addEventListener("load", function () {
+    setTimeout(function () {
+      const preloader = document.getElementById("preloader");
+      preloader.classList.add("fade-out");
+    }, 2000);
+  });
+</script>
+  <div class="banner cid-tpWhb7IFv2" style="background:black !important; padding-top:8px !important;" id="menu3-kjNpBO2hKj-MhtSmCcyGF-1hQspWuK2c-zl2boMccJm-brydemR7ro-wik6pghvGy-1MTGfV7kNh-6KldV3AcDH-qCXUDTWmEV-78HWWD8x42-BEYaqmxXvw-JIrtIOvJyM-SRY2MtOhYV-g1ahRatJoJ-c1PFMs4sLu-JEvWpconJz-VuKMMv2Yic-ezu4x1iNpC-USgU1iGtZt-KSALL8mQB8-IgmfAaN9KN-Nh07jEYgdH-Qv2KRdiKRh-BaQZ4gtdRi-CekOiy7Wpm-rxiXShriTa-sllijVCVAR-5USpjBhQkP-3CTi8fEriZ-ijCtrY1YvV-dmLZoNhiLH-u7VPledenw-U7tkEJLBA0-UAZT3m8O7O-MlntCwYXdu-O3mzpoigCE-lHFMGHQT4c-2ViGQryU3e-9D4CMEIxmb-3eezqFQM5w-xO1npAegba-e9URPN8vde-odwAxlFQ7G-q8Z2Dzz7mF-yxr86VYKTZ-15xyqlsAhL-2CveeVGZdy-gs" data-rv-view="1605">
 <!-- Codes by HTML.am -->
 
 <!-- CSS Code -->

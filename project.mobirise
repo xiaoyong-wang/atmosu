@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Atmos Space",
-    "currentPage": "vision.html",
+    "name": "Atmos Program NEW",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -123,7 +123,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 605,
-    "versionPublish": "5.7.4",
+    "versionPublish": "5.7.0",
     "screenshot": "screenshot.png",
     "witsec-white-label": true,
     "global_footer_custom": "<script>\nconst boxes = document.querySelectorAll('.btn');\n\nfor (const box of boxes) {\n  box.classList.add('shadow-none');\n}\n</script>\n\n<script src=\"//instant.page/5.1.1\" type=\"module\" integrity=\"sha384-MWfCL6g1OTGsbSwfuMHc8+8J2u71/LA8dzlIN3ycajckxuZZmF+DNjdm7O6H3PSq\"></script>",

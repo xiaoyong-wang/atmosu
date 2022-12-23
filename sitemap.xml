@@ -71,4 +71,10 @@
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/modern-earth.html</loc>
 	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/federated-town-square.html</loc>
+	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/fdts-document.html</loc>
+	</url>
 </urlset>

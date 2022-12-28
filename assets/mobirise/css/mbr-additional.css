@@ -22,11 +22,11 @@ body {
 }
 .display-4 {
   font-family: 'Oxanium', display;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.0625rem;
+  font-size: 1rem;
 }
 .display-5 {
   font-family: 'Oxanium', display;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.68rem;
-    font-size: calc( 0.9475rem + (0.85 - 0.9475) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.9475rem + (0.85 - 0.9475) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.28rem;
@@ -599,12 +599,12 @@ a:hover {
 }
 .form-control {
   font-family: 'Oxanium', display;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.0625rem;
+  font-size: 1rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -613,12 +613,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Oxanium', display;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.0625rem;
+  font-size: 1rem;
 }
 blockquote {
   border-color: #fafafa;
@@ -1077,6 +1077,29 @@ a {
 }
 .cid-tqHiVroYwC .mbr-iconfont:hover {
   color: white !important;
+}
+.cid-trluh2ZVqY .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-trluh2ZVqY .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  background-image: url("../../../assets/images/pexels-yuting-gao-1557547.jpg");
+}
+.cid-trluh2ZVqY .mbr-section-title {
+  color: #fafafa;
+}
+.cid-trluh2ZVqY .mbr-text,
+.cid-trluh2ZVqY .mbr-section-btn {
+  color: #fafafa;
+}
+.cid-trluh2ZVqY .mbr-section-subtitle {
+  color: #ffffff;
 }
 .cid-thbGTvd4bd .mbr-fallback-image.disabled {
   display: none;

@@ -91,7 +91,7 @@ section {
     }, 2000);
   });
 </script>
-  <div class="banner cid-tsqXzfLVNN" style="background:black !important; padding-top:8px !important;" id="menu3-kjNpBO2hKj-MhtSmCcyGF-1hQspWuK2c-zl2boMccJm-brydemR7ro-wik6pghvGy-1MTGfV7kNh-6KldV3AcDH-qCXUDTWmEV-78HWWD8x42-BEYaqmxXvw-JIrtIOvJyM-SRY2MtOhYV-g1ahRatJoJ-c1PFMs4sLu-JEvWpconJz-VuKMMv2Yic-ezu4x1iNpC-USgU1iGtZt-KSALL8mQB8-IgmfAaN9KN-Nh07jEYgdH-Qv2KRdiKRh-BaQZ4gtdRi-CekOiy7Wpm-rxiXShriTa-sllijVCVAR-5USpjBhQkP-3CTi8fEriZ-ijCtrY1YvV-dmLZoNhiLH-u7VPledenw-U7tkEJLBA0-UAZT3m8O7O-MlntCwYXdu-O3mzpoigCE-lHFMGHQT4c-2ViGQryU3e-9D4CMEIxmb-3eezqFQM5w-xO1npAegba-e9URPN8vde-odwAxlFQ7G-q8Z2Dzz7mF-yxr86VYKTZ-15xyqlsAhL-2CveeVGZdy-j9HYrKtczy-d8X5TTjwt0-jCCfCgOy42-QdYKJQa0N3-YzV6buptdN-YRxbF3JwGY-JNFV0K5fLo-OIv3vQVR0Z-OcXs4fKEL0-j1" data-rv-view="1216">
+  <div class="banner cid-tsqXzfLVNN" style="background:black !important; padding-top:8px !important;" id="menu3-kjNpBO2hKj-MhtSmCcyGF-1hQspWuK2c-zl2boMccJm-brydemR7ro-wik6pghvGy-1MTGfV7kNh-6KldV3AcDH-qCXUDTWmEV-78HWWD8x42-BEYaqmxXvw-JIrtIOvJyM-SRY2MtOhYV-g1ahRatJoJ-c1PFMs4sLu-JEvWpconJz-VuKMMv2Yic-ezu4x1iNpC-USgU1iGtZt-KSALL8mQB8-IgmfAaN9KN-Nh07jEYgdH-Qv2KRdiKRh-BaQZ4gtdRi-CekOiy7Wpm-rxiXShriTa-sllijVCVAR-5USpjBhQkP-3CTi8fEriZ-ijCtrY1YvV-dmLZoNhiLH-u7VPledenw-U7tkEJLBA0-UAZT3m8O7O-MlntCwYXdu-O3mzpoigCE-lHFMGHQT4c-2ViGQryU3e-9D4CMEIxmb-3eezqFQM5w-xO1npAegba-e9URPN8vde-odwAxlFQ7G-q8Z2Dzz7mF-yxr86VYKTZ-15xyqlsAhL-2CveeVGZdy-j9HYrKtczy-d8X5TTjwt0-jCCfCgOy42-QdYKJQa0N3-YzV6buptdN-YRxbF3JwGY-JNFV0K5fLo-OIv3vQVR0Z-OcXs4fKEL0-j1" data-rv-view="2607">
 <!-- Codes by HTML.am -->
 
 <!-- CSS Code -->
@@ -577,14 +577,14 @@ margin-top: -14% !important;
 
 <!-- Fade-out screen JS -->
 <script>
-  // Get all link elements on the page
-  const links = document.querySelectorAll("a");
+  // Get all elements with the class "btn-primary-outline", "nav-link" and "btn-primary"
+  const elements = document.querySelectorAll(".btn-primary-outline, .nav-link, .btn-primary");
 
-  // Add a click event listener to each link
-  links.forEach(link => {
-    link.addEventListener("click", function() {
-      // Check if the link has the "noeffect1" class
-      if (!link.classList.contains("noeffect1")) {
+  // Add a click event listener to each element
+  elements.forEach(element => {
+    element.addEventListener("click", function() {
+      // Check if the element has the "noeffect1" class
+      if (!element.classList.contains("noeffect1")) {
         // Show the fade-out screen
         const fadeOutScreen = document.getElementById("fade-out-screen");
         fadeOutScreen.classList.add("fade-in");
@@ -592,8 +592,6 @@ margin-top: -14% !important;
     });
   });
 </script>
-
-
 
 
 <script>

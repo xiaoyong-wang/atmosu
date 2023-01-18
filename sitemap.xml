@@ -18,19 +18,10 @@
 		<loc>https://atmosu.com/sitemap.xml/mars.html</loc>
 	</url>
 	<url>
-		<loc>https://atmosu.com/sitemap.xml/misat.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/misat-doc.html</loc>
-	</url>
-	<url>
 		<loc>https://atmosu.com/sitemap.xml/galactic-union.html</loc>
 	</url>
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/cosmic-tour.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/coty.html</loc>
 	</url>
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/peregrine.html</loc>
@@ -54,9 +45,6 @@
 		<loc>https://atmosu.com/sitemap.xml/high-def-gallery.html</loc>
 	</url>
 	<url>
-		<loc>https://atmosu.com/sitemap.xml/atmos-org-structure.html</loc>
-	</url>
-	<url>
 		<loc>https://atmosu.com/sitemap.xml/modern-earth.html</loc>
 	</url>
 	<url>
@@ -70,5 +58,8 @@
 	</url>
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/nihongo.html</loc>
+	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/angel-investment-committee.html</loc>
 	</url>
 </urlset>

@@ -65,4 +65,7 @@
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/buildings.html</loc>
 	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/jp-restricted.html</loc>
+	</url>
 </urlset>

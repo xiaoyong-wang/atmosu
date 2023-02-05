@@ -114,7 +114,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/social-1.png",
-    "mbrsiteDomain": "qwxyae74xp",
+    "mbrsiteDomain": "ly4crrly1n",
     "imageResize": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
@@ -18178,7 +18178,7 @@
         "meta_descr": "人類に宇宙飛行や銀河をまたぐ人類の拡張の重要性を示すことを鼓舞するとともに知らせること。",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
+        "html_before": "<?php\nheader('Content-Language: ja');\nheader('X-Content-Language-Options: nosniff');\n?>",
         "order": "5",
         "meta_image": "@PROJECT_PATH@/assets/images/banner.png"
       },

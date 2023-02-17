@@ -707,9 +707,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-trluh2ZVqY {
-  background-image: url("../../../assets/images/pexels-andrey-grushnikov-707667-2000x1166.webp");
-}
 .cid-trluh2ZVqY .mbr-fallback-image.disabled {
   display: none;
 }
@@ -721,6 +718,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/maxresdefault-1-1280x720.webp");
 }
 .cid-trluh2ZVqY .mbr-section-title {
   color: #fafafa;

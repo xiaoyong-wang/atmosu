@@ -707,35 +707,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-txGv7ITBK9 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-txGv7ITBK9 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  background-image: url("../../../assets/images/fireworks-gb1a9f0e96-1920-1920x1280.webp");
-}
-.cid-txGv7ITBK9 .mbr-section-title {
-  color: #fafafa;
-}
-.cid-txGv7ITBK9 .mbr-text,
-.cid-txGv7ITBK9 .mbr-section-btn {
-  color: #fafafa;
-}
-.cid-txGv7ITBK9 .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-txGv7ITBK9 .scrollimg {
-  display: inline-block !important;
-}
-.cid-txGv7ITBK9 .primarybutton {
-  margin-right: 15px !important;
-}
 .cid-trluh2ZVqY .mbr-fallback-image.disabled {
   display: none;
 }

@@ -12,9 +12,6 @@
 		<loc>https://atmosu.com/sitemap.xml/warp-drive.html</loc>
 	</url>
 	<url>
-		<loc>https://atmosu.com/sitemap.xml/inhabited-areas.html</loc>
-	</url>
-	<url>
 		<loc>https://atmosu.com/sitemap.xml/mars.html</loc>
 	</url>
 	<url>
@@ -55,5 +52,8 @@
 	</url>
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/global-shield-document.html</loc>
+	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/osse.html</loc>
 	</url>
 </urlset>

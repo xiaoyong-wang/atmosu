@@ -15,9 +15,6 @@
 		<loc>https://atmosu.com/sitemap.xml/mars.html</loc>
 	</url>
 	<url>
-		<loc>https://atmosu.com/sitemap.xml/galactic-union.html</loc>
-	</url>
-	<url>
 		<loc>https://atmosu.com/sitemap.xml/peregrine.html</loc>
 	</url>
 	<url>
@@ -55,5 +52,8 @@
 	</url>
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/osse.html</loc>
+	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/prosperity-union.html</loc>
 	</url>
 </urlset>

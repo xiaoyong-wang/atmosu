@@ -1841,19 +1841,20 @@ a {
 .cid-58xhiL2Eah .verified-5 {
   margin-top: -3px !important;
 }
-.cid-tyqyICqxRd {
-  background-image: url("../../../assets/images/skyscrapers-ga4b2686eb-1920-1920x1280.webp");
+.cid-tywtyscrCC {
+  background-image: url("https://cdn.atmosu.com/skyscrapers-ga4b2686eb-1920-1920x1280.webp");
 }
-.cid-tyqyICqxRd .mbr-text,
-.cid-tyqyICqxRd .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
+.cid-tywtyscrCC .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-tyqyICqxRd .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-tyqyICqxRd .mbr-section-title {
-  text-align: center;
+.cid-tywtyscrCC .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-sYKJ6y3HTW {
   background-image: url("../../../assets/images/mbr-24.webp");

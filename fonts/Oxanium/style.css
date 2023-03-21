@@ -1,0 +1,49 @@
+@font-face {
+   font-family: 'Oxanium';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///home/jacobzymet/GitHub/atmoshq1/fonts/Oxanium/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Oxanium';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///home/jacobzymet/GitHub/atmoshq1/fonts/Oxanium/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Oxanium';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///home/jacobzymet/GitHub/atmoshq1/fonts/Oxanium/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Oxanium';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///home/jacobzymet/GitHub/atmoshq1/fonts/Oxanium/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Oxanium';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///home/jacobzymet/GitHub/atmoshq1/fonts/Oxanium/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Oxanium';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///home/jacobzymet/GitHub/atmoshq1/fonts/Oxanium/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Oxanium';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///home/jacobzymet/GitHub/atmoshq1/fonts/Oxanium/regular.ttf') format('truetype');
+}

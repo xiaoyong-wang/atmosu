@@ -6,9 +6,6 @@
 		<loc>https://atmosu.com/sitemap.xml/vision.html</loc>
 	</url>
 	<url>
-		<loc>https://atmosu.com/sitemap.xml/about.html</loc>
-	</url>
-	<url>
 		<loc>https://atmosu.com/sitemap.xml/warp-drive.html</loc>
 	</url>
 	<url>
@@ -22,9 +19,6 @@
 	</url>
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/kardashev.html</loc>
-	</url>
-	<url>
-		<loc>https://atmosu.com/sitemap.xml/stem-careers.html</loc>
 	</url>
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/federated-town-square.html</loc>
@@ -64,5 +58,11 @@
 	</url>
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/bank.html</loc>
+	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/about.html</loc>
+	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/divisions.html</loc>
 	</url>
 </urlset>

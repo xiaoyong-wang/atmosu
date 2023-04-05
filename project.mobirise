@@ -119,7 +119,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/social-1.png",
-    "mbrsiteDomain": "5bsjlqwqop",
+    "mbrsiteDomain": "ee5p4bbbyh",
     "imageResize": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
@@ -137,7 +137,7 @@
     "global_before_html": "",
     "global_header_custom": "<style>\nsection {\n  background-color: black !important;\n}\n</style>",
     "publishEditFolder": false,
-    "global_after_body": "<style>\n  /* Preloader styles */\n  #preloader {\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background-color: black;\n    z-index: 9999;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    transition: opacity 0.7s ease-out;\n    opacity: 1;\n    pointer-events: none;\n  }\n\n  #preloader.fade-out {\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  /* Loading animation styles */\n  .loading {\n    width: 40px;\n    height: 40px;\n    border: 2px solid white;\n    border-radius: 50%;\n    border-top-color: transparent;\n    animation: spin 1s linear infinite;\n  }\n\n  @keyframes spin {\n    to {\n      transform: rotate(360deg);\n    }\n  }\n</style>\n\n<!-- Preloader HTML -->\n<div id=\"preloader\">\n  <div class=\"loading\"></div>\n</div>\n\n<!-- Preloader JS -->\n<script>\n  window.addEventListener(\"load\", function () {\n    setTimeout(function () {\n      const preloader = document.getElementById(\"preloader\");\n      preloader.classList.add(\"fade-out\");\n    }, 1000);\n  });\n</script>\n\n<!-- random text appear -->\n",
+    "global_after_body": "<style>\n  /* Preloader styles */\n  #preloader {\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    background-color: black;\n    z-index: 9999;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    transition: opacity 0.7s ease-out;\n    opacity: 1;\n    pointer-events: none;\n  }\n\n  #preloader.fade-out {\n    opacity: 0;\n    pointer-events: none;\n  }\n\n  /* Loading animation styles */\n  .loading {\n    width: 40px;\n    height: 40px;\n    border: 2px solid white;\n    border-radius: 50%;\n    border-top-color: transparent;\n    animation: spin 1s linear infinite;\n  }\n\n  @keyframes spin {\n    to {\n      transform: rotate(360deg);\n    }\n  }\n</style>\n\n<!-- Preloader HTML -->\n<div id=\"preloader\">\n  <div class=\"loading\"></div>\n</div>\n\n<!-- Preloader JS -->\n<script>\n  window.addEventListener(\"load\", function () {\n    setTimeout(function () {\n      const preloader = document.getElementById(\"preloader\");\n      preloader.classList.add(\"fade-out\");\n    }, (window.location.href.includes(\"voice-of-atmos.html\") || window.location.href.includes(\"voice-of-atmos\")) ? 2500 : 1000);\n  });\n</script>\n\n<!-- random text appear -->\n",
     "usedWebp": true
   },
   "pages": {

@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Oxanium-Bold';
+   font-display: swap;
+   src: url('Oxanium-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Oxanium-SemiBold';
+   font-display: swap;
+   src: url('Oxanium-SemiBold/font.ttf');
+}
+@font-face {
+   font-family: 'Oxanium-Medium';
+   font-display: swap;
+   src: url('Oxanium-Medium/font.ttf');
+}

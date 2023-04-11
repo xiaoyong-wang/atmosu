@@ -4,9 +4,9 @@
    src: url('Oxanium-Bold/font.ttf');
 }
 @font-face {
-   font-family: 'Oxanium-SemiBold';
+   font-family: 'Oxanium-Regular';
    font-display: swap;
-   src: url('Oxanium-SemiBold/font.ttf');
+   src: url('Oxanium-Regular/font.ttf');
 }
 @font-face {
    font-family: 'Oxanium-Medium';

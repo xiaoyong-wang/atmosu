@@ -36,9 +36,6 @@
 		<loc>https://atmosu.com/sitemap.xml/jp-restricted.html</loc>
 	</url>
 	<url>
-		<loc>https://atmosu.com/sitemap.xml/global-shield.html</loc>
-	</url>
-	<url>
 		<loc>https://atmosu.com/sitemap.xml/global-shield-document.html</loc>
 	</url>
 	<url>
@@ -64,5 +61,8 @@
 	</url>
 	<url>
 		<loc>https://atmosu.com/sitemap.xml/voice-of-atmos.html</loc>
+	</url>
+	<url>
+		<loc>https://atmosu.com/sitemap.xml/world-defense.html</loc>
 	</url>
 </urlset>
